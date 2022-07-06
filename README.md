@@ -1,16 +1,11 @@
 # inventary_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<img src="https://user-images.githubusercontent.com/68215023/177578363-ba347959-a610-4320-91b2-4d8c1c3e0b60.jpg" width="200px"</img>
+<img src="https://user-images.githubusercontent.com/68215023/177578378-4d1fd983-cdc8-4e6f-9426-37594f53840f.jpg" width="200px"</img>
+</div>
+# Modo oscuro
+<div>
+<img src="https://user-images.githubusercontent.com/68215023/177578556-bdef7025-5c8e-4f83-9e28-b9f02f03a029.jpg" width="200px"</img>
+<img src="https://user-images.githubusercontent.com/68215023/177578559-7feac5f7-a820-41c7-b4e6-948c7ec50b36.jpg" width="200px"</img>
+</div>

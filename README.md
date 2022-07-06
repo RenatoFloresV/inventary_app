@@ -8,6 +8,9 @@
    Modo oscuro
   </div>
 <div>
+   <h1>
+       Modo oscuro
+   </h1>
 <img src="https://user-images.githubusercontent.com/68215023/177578556-bdef7025-5c8e-4f83-9e28-b9f02f03a029.jpg" width="200px"</img>
 <img src="https://user-images.githubusercontent.com/68215023/177578559-7feac5f7-a820-41c7-b4e6-948c7ec50b36.jpg" width="200px"</img>
 </div>

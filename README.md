@@ -1,6 +1,6 @@
 # inventary_app
 
-Ejemplo de implementación modo oscuro con day_night_switcher
+Ejemplo de implementación modo oscuro con el package day_night_switcher
 : https://pub.dev/packages/day_night_switcher
 
 <div>
